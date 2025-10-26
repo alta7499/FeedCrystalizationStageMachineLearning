@@ -4,7 +4,7 @@
 # Requirements:
 # pip install opencv-python scikit-learn numpy matplotlib
 # ==========================================================
-# Test
+
 import cv2
 import numpy as np
 import glob
